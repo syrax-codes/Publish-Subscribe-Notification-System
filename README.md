@@ -64,7 +64,7 @@ python3 client.py
 
 
 ---
-## 🌐 Step 5: Run Publisher - is a client who publishes
+## 🌐 Step 5: Run Publisher - is a client who publishes a notification
 
 
 python3 client.py
@@ -79,6 +79,7 @@ PUBLISH <topic> <message> or PUBLISH_PREMIUM <topic> <message>
 ### 📌 Subscribe
 
 SUBSCRIBE <topic>
+
 ### 📌 Unsubscribe
 
 UNSUBSCRIBE <topic>
@@ -156,6 +157,6 @@ This project demonstrates:
 
 ## 👨‍💻 Team:
 
-Abhiraj Dhananjay - PESUG24CS016
-Aarohi Jaiswal - PES1UG24CS009
-Aaditya Vashisht - PES1UG24CS004
+# Abhiraj Dhananjay - PESUG24CS016
+# Aarohi Jaiswal - PES1UG24CS009
+# Aaditya Vashisht - PES1UG24CS004
