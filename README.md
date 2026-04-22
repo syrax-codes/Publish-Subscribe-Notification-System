@@ -157,6 +157,6 @@ This project demonstrates:
 
 ## 👨‍💻 Team:
 
-# Abhiraj Dhananjay - PESUG24CS016
-# Aarohi Jaiswal - PES1UG24CS009
-# Aaditya Vashisht - PES1UG24CS004
+### Abhiraj Dhananjay - PESUG24CS016
+### Aarohi Jaiswal - PES1UG24CS009
+### Aaditya Vashisht - PES1UG24CS004
