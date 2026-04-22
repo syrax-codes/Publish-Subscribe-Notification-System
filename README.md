@@ -46,8 +46,6 @@ Expected Output:
 
 ---
 
-## 💻 Step 3: Run Client
----
 
 ## 💻 Step 3: Run Client
 
@@ -66,7 +64,16 @@ python3 client.py
 
 
 ---
+## 🌐 Step 5: Run Publisher - is a client who publishes
 
+
+python3 client.py
+
+and run
+
+PUBLISH <topic> <message> or PUBLISH_PREMIUM <topic> <message>
+
+---
 ## 🧠 Available Commands
 
 ### 📌 Subscribe
@@ -76,11 +83,13 @@ SUBSCRIBE <topic>
 
 UNSUBSCRIBE <topic>
 
-
 ### 📌 Publish
 
 PUBLISH <topic> <message>
 
+### 📌 Publish Premium For Premium Subscribers
+
+PUBLISH_PREMIUM <topic> <message>
 
 ---
 
@@ -90,11 +99,9 @@ Client 1:
 
 SUBSCRIBE sports
 
-
 Client 2:
 
 PUBLISH sports Hello everyone
-
 
 Output:
 
